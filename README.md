@@ -1,6 +1,6 @@
 # 🕹️ ft_transcendence - Projet final du tronc commun 42
 
-Projet de groupe réalisé avec [Malo Lefort](https://github.com/Malolfrt), [Ruddy Risselin](https://github.com/RuddyRisselin) et [Yann Mostowski](https://github.com/ymostows)
+Projet de groupe réalisé avec [Malo Lefort](https://github.com/Malolfrt) , [Ruddy Risselin](https://github.com/RuddyRisselin) et [Yann Mostowski](https://github.com/ymostows)
 
 ![ezgif com-video-to-gif-converter (5)](https://github.com/user-attachments/assets/74b4fcc7-74ac-4edf-acce-44be3f281b41)
 
